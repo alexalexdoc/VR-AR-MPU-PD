@@ -24,7 +24,7 @@ Repository for PD in Moscow Polytechnic University
 |171-334|https://github.com/Nlalalay|Пугачева Е.О.|
 |171-334|https://github.com/Sabakana|Мова В.М.|
 |171-334|https://github.com/Bydmak|Чулкин Д.С.|
-|171-334|https://github.com/|Яранцев В.А.|
+|171-334|https://github.com/iconini13ya|Яранцев В.А.|
 |191-325|https://github.com/D4vvon|Муравьёв А.Г.|
 |191-324|https://github.com/EujeSol|Соловьева Е.А.|
 |191-323|https://github.com/VladEvtuhov191|Евтухов В.Д.|
@@ -34,7 +34,7 @@ Repository for PD in Moscow Polytechnic University
 |191-323|https://github.com/alexalexdoc|Балобанов А.А.|
 |181-325|https://github.com/Dustate|Рахметов Р.Р.|
 |181-325|https://github.com/PierSent|Петренко А.А.|
-|181-325||Толстых С.С.|
+|181-325|https://github.com/StepanTolstyh|Толстых С.С.|
 |181-325||Терешин Н.|
 |191-324|https://github.com/MbllllbMidori|Смирнова М.В.|
 |191-323||Аюпов С.А.|
