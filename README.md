@@ -28,7 +28,7 @@ Repository for PD in Moscow Polytechnic University
 |191-325|https://github.com/D4vvon|Муравьёв А.Г.|
 |191-324|https://github.com/EujeSol|Соловьева Е.А.|
 |191-323|https://github.com/VladEvtuhov191|Евтухов В.Д.|
-|191-323||Платонов Д.А.|
+|191-323|https://github.com/M4rtlon|Платонов Д.А.|
 |191-323||Иванов А.А.|
 |191-325||Андреев Р.А.|
 |191-323|https://github.com/alexalexdoc|Балобанов А.А.|
