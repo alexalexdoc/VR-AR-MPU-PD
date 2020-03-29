@@ -22,7 +22,7 @@ Repository for PD in Moscow Polytechnic University
 |171-334|https://github.com/DanielPetrow|Петров Д.В.|
 |171-334|https://github.com/TheDycik|Миронов А.Ю.|
 |171-334|https://github.com/Nlalalay|Пугачева Е.О.|
-|171-334|https://github.com/|Мова В.М.|
+|171-334|https://github.com/Sabakana|Мова В.М.|
 |171-334|https://github.com/Bydmak|Чулкин Д.С.|
 |171-334|https://github.com/|Яранцев В.А.|
 |191-325|https://github.com/D4vvon|Муравьёв А.Г.|
