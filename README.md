@@ -30,7 +30,7 @@ Repository for PD in Moscow Polytechnic University
 |191-323|https://github.com/VladEvtuhov191|Евтухов В.Д.|
 |191-323|https://github.com/M4rtlon|Платонов Д.А.|
 |191-323||Иванов А.А.|
-|191-325||Андреев Р.А.|
+|191-325|https://github.com/andreevrustem|Андреев Р.А.|
 |191-323|https://github.com/alexalexdoc|Балобанов А.А.|
 |181-325|https://github.com/Dustate|Рахметов Р.Р.|
 |181-325|https://github.com/PierSent|Петренко А.А.|
